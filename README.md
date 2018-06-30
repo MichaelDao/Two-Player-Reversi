@@ -1,7 +1,8 @@
-# Reversi-Game
-  This was created with C with VIM. 
+# Reversi-Game  
+  COSC1076 assignment created with C in VIM.
   
-  Made for a university assignment, can be played with two people.
+  Requires two players (or you can play yourself)
   
-  Download 'compiledGame', then run it in a terminal (./compiledGame).
+  To run the program, download this repository and enter this command in a terminal 
+  - ./compiledGame
 
