@@ -1,5 +1,5 @@
 # Reversi-Game  
-  COSC1076 assignment created with C in VIM.
+  COSC2123 assignment created with C in VIM.
   
   Requires two players (or you can play yourself)
   
